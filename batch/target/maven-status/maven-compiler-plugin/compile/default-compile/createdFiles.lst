@@ -1,0 +1,3 @@
+com\course\batch\BatchApplication.class
+com\course\batch\tasklet\ProcessTasklet.class
+com\course\batch\jobs\ProcessJob.class
